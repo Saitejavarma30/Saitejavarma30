@@ -2,12 +2,6 @@
 
 I'm a **Full Stack Developer** with a passion for building scalable and performant applications. With experience across **React, TypeScript, GraphQL, Django**, I specialize in crafting seamless front-end experiences while architecting efficient back-end solutions.
 
-## 🌟 Highlights:
-- **Led and maintained the entire front-end codebase** for the Rewards feature at **Flipkart**.
-- Designed and implemented **GraphQL APIs** used across multiple teams.
-- Spearheaded the **migration of a major service** from Django to **Node and React**.
-- Developed a **photography portfolio website**.
-
 
 ## 📸 Beyond Coding:
 When I'm not coding, you'll find me **traveling, capturing moments through photography**, and exploring **creative storytelling through visuals**. Check out my photography work on my portfolio!
